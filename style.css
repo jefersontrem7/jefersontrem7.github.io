@@ -1,11 +1,29 @@
-body {
-    background: #cccccc
+body
+    {
+        background-color: #0000ff;
+    }
+
+    #xscratch
+    {
+        width: 10%;
+    }
+
+    h1
+    {
+        text-align: center
+    }    
+
+    p
+    {
+        text-align: center;
+    }
+
+#missao
+{
+        font-size: 20px
 }
 
-p {
-    text-align: center 
-}
-
-em strong {
-    color: red;
-}
+     strong
+     {
+        color: rgb(0, 4, 255);
+     }
